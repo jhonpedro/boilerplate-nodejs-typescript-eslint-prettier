@@ -5,6 +5,7 @@ class App {
 
   constructor() {
     this.middlewares()
+    this.routes()
   }
 
   middlewares() {
